@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloNuget", "HelloNuget\HelloNuget.csproj", "{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Release|iPhone.Build.0 = Release|iPhone
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AFBE21EE-EE7F-4CC7-9FA7-5342420DC82E}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
